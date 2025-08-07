@@ -1,0 +1,18 @@
+# Database
+sqlalchemy~=2.0
+psycopg2-binary~=2.9
+
+# Data manipulation
+pandas~=2.2
+
+# Web scraping
+requests~=2.32
+beautifulsoup4~=4.12
+
+# Google Sheets API (Google official libs)
+google-auth~=2.36
+google-api-python-client~=2.152
+
+# Unit testing
+pytest~=8.2
+pytest-cov~=6.0

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "submission-pemda-468315",
+  "private_key_id": "cf4b24dd4ed43a728005412bc71a2fd0a8e4ecca",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDWdGPNXHn44WhN\nBYYMg7YtZfeK1//MRdNDd+WHRuIk0Y2j/LhZeJ5sHRbfdS77ccYEHzTVUGrwakJV\nZvjXpg3cNNYhudGrs+0uxfx6AdZn4zaFIKcHI3j3QSbn5gdziaE3/SlwPmTFdz7c\n1OjVY6fP9hE5OIxuLnsZIWtPquv+mTTnOhHkdYROedgfPUe5MMDHF1e94Kjc0kBF\nmtlk3Fy017LrnzcdYOAhOgIUEbM1xCN5SCwZVQ5ERPsZEHhMheURjHkuRQ4nPDpg\nqDrd42Vj8SDEPjTKMpC1onvNhTCutoNhe3c/5vv7kSTkMzD+/aA8leTYQPQkCOwC\nC14QyjzJAgMBAAECggEABKLP/ILFBT8UMuQNbYxUXh9f7lG0jy0sP79iCB5daafZ\nDMQ8FP0RSauIUMzW9usS+YhWK01ZfniBlhiLhRfrIUlIHsMGWBSj6jiv+FA9WxIT\nneWijroy1X+EUIuNui7tvAjeQjWrFoS5KGt23BQTLuD2JttE1+Xr1dN93yNGBkMt\n+Et5qn/B3X049q2k85Wl9J3SMg/r2LiLZMQWmDziKpIvbDSuRu5QH6M0RbwXLzmg\ngyLUFwCx3zlDEnVIDABTf2cXjQ9J8KJ0WZ4VwgOxI2GIMCBMvwia8Z55JxS6KOC+\nxo5FSHjXLgV/MaD0zOrCob1Q+G0heqnPM7dKJrwCjQKBgQD1ILmcKSeV+qYTG+/E\nbLacVDryowGOW7iAF7fmnENqdxZb5crst+sin7dJaziU5RG8s9ibsLT5HmuTuawQ\niQwQlDtPII1LmlJG8biP8Z2hmmsABJQ5hgzzb2rN48my+Cftr4pqmq3TwUS03+4L\nNSfkq8yjTkFZInHFj+Nl82NIDQKBgQDf92PIFpHC6oLfL7v8DVntG6uvtUElroUb\nsMIh10hrLgQyxJRfbVlce0M5JRnSaU41TbVzzIslBMH+2IeYRjta1xs8L6CKacmn\nh0Be4KByPDwTWUHVcM41BIy82xKWfpqSv+RW6ZgVxs1qQcUMJxALEk8Rbicx4PfN\nIflfsa28rQKBgDdlxOzI1Dxt3/hzmNVAaGieFJBfTGu6yNCSC6qfaBD4huIP5bNn\nwUka5VY/WBM2TbLixjIxVkTyngdNr9gw0Lwyc9DnH2eVocCMwlQtm505A7OGVWVG\nqUiexnlvYFcFBCkQQezjtiMkC34BGZAI3FIujVnexp/5S9MFOLQCtE5FAoGAISw4\nWEuXfWJUzg/47QVhO3BsxpK3OoiV6JsOtgp4DH/9WTOqslO097C+LTmkkHjOf7Cp\n3qP+PBZvUXrq4pAMfJD91LVNNxMiLjEnRKZKvYDUeR0wVhfmQw4QdmyQXUAVTwUj\nIghpYVhX1pQ1Rm6Gvs0Qbwl8vrOOoJCWqijcDeUCgYEA1doamvyAvsVz44uP0Nvx\nPi5IDP8lI55hDpSB6ciKOCSJ+PH9hTEEr+MPLa7Yhx1oClEU9sSdFz+cCbDmF6BI\nLqu1q94oRxt6IJoitgBsoOCI+mkPQe6y+F+tCYKoVo1eJjB5xDq7UaNohhdq1aKs\nJR3f+V6AlTwUh00Lf1+YUkw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "etl-service@submission-pemda-468315.iam.gserviceaccount.com",
+  "client_id": "108585921053582352146",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/etl-service%40submission-pemda-468315.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
